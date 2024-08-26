@@ -1,0 +1,3 @@
+class Contabancaria extends Banco {
+    
+}
