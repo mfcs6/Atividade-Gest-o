@@ -1,3 +1,3 @@
-class Contabancaria extends Banco {
+public class Contabancaria {
     
 }
